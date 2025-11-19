@@ -35,6 +35,7 @@
 
 
 -- Solution:
+
 SELECT s.roll_number, s.name
 FROM student_information AS s
 LEFT JOIN faculty_information AS f
