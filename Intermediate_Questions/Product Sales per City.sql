@@ -61,6 +61,7 @@
 
 
 -- Solution:
+
 SELECT
 c.city_name AS city,
 p.product_name AS product,
